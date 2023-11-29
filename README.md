@@ -39,9 +39,15 @@ I have used the Agile methodology to develop applications. This allows us to opt
     │   │   │   │   ├── model
     │   │   │   │   ├── repository
     │   │   │   │   ├── service
+    │   │   │   │   └── ...
+    │   │   │   └── ... 
     │   │   ├── resources
     │   │   │   ├── templates
     │   │   │   ├── application.properties
+    │   │   │   └── ...
+    │   │   └── ..
+    │   └── ..
+    └── ... 
 
     
 The "model" directory contains classes representing data entities, where these objects are defined and processed.
