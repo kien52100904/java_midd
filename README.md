@@ -17,8 +17,8 @@ I have used the Agile methodology to develop applications. This allows us to opt
 - src
   - main
     - java
-      - com.midterm.midtram
-        - cofig
+      - com.middterm.project
+        - config
         - controller
         - model
         - repository
@@ -37,6 +37,17 @@ The "controller" directory contains controller classes in the application, where
 
 ## All required steps in order to get the application run on a local computer
 
-Database: Create a new database whose name is spring-midterm, then import file spring-midterm.sql into it.
-Import project into Eclipse/IntelliJ, then go to the file application and start running it (port is 8087, can change if necessary)
-Go to browser and type 'http://localhost:8087' and start experience the app.
+Database: Create a new database whose name is middterm, then import file middterm_book, middterm_cart_item and middterm_user into it.
+Import project into Eclipse/IntelliJ, then go to the file application and start running it (port is 8080, can change if necessary)
+Go to browser and type 'http://localhost:8080' and start experience the app.
+
+## Login information available for app
+
+Admin:
+  email: phamhoangtrungkien2411@gmail.com
+  password: kien@2003
+User:
+  email: user1@gmail.com
+  password: 123456
+  
+  
