@@ -12,7 +12,7 @@ I have used the Agile methodology to develop applications. This allows us to opt
 
 ## Entity-relationship diagram
 
-
+<img src="[https://i.pinimg.com/564x/cc/6a/a1/cc6aa16a5af6ddbca84457225cabe6b4.jpg](https://i.imgur.com/8rRFY3R.png)">
 
 ## The code structure
     .
