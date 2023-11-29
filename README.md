@@ -13,6 +13,7 @@ I have used the Agile methodology to develop applications. This allows us to opt
 ## Entity-relationship diagram
 
 <img src="">
+
 ## The code structure
 ├── src
 │   ├── main
