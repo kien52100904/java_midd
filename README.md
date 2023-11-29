@@ -55,6 +55,7 @@ Go to browser and type 'http://localhost:8080' and start experience the app.
 Admin:
   email: phamhoangtrungkien2411@gmail.com
   password: kien@2003
+  
 User:
   email: user1@gmail.com
   password: 123456
