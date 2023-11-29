@@ -14,9 +14,9 @@ I have used the Agile methodology to develop applications. This allows us to opt
 
 <img src="">
 ## The code structure
-- src
-  - main
-    - java
+├── src
+│   ├── main
+│   │   ├── java
       - com.middterm.project
         - config
         - controller
