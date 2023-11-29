@@ -28,6 +28,16 @@ I have used the Agile methodology to develop applications. This allows us to opt
       - static
       - templates
       - application.properties
+    .
+    ├── ...
+    ├── docs                    # Documentation files (alternatively `doc`)
+    │   ├── TOC.md              # Table of contents
+    │   ├── faq.md              # Frequently asked questions
+    │   ├── misc.md             # Miscellaneous information
+    │   ├── usage.md            # Getting started guide
+    │   └── ...                 # etc.
+    └── ...
+
     
 The "model" directory contains classes representing data entities, where these objects are defined and processed.
 The "repository" directory contains interfaces or classes for accessing and interacting with the database. 
